@@ -6,5 +6,5 @@ import (
 
 func main() {
 	fmt.Println("welcome to git session!")
-	fmt.Println("second fmt")
+	fmt.Println("changes from second repo/user")
 }
